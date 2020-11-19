@@ -1,0 +1,108 @@
+@font-face {
+    font-family: montserrat-bold;
+    src: url(../../font/Montserrat/Montserrat-Bold.ttf);
+
+}
+
+@font-face {
+    font-family: montserrat-light;
+    src: url(../../font/Montserrat/Montserrat-Light.ttf);
+}
+
+@font-face {
+    font-family: lora;
+    src: url(../../font/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: lora-light;
+    src: url(../../font/Lora/Lora-VariableFont_wght.ttf);
+}
+
+body {
+    background-color: #F4F5F7;
+}
+
+.navbar-brand {
+    font-family: montserrat-bold;
+}
+
+.nav-item .nav-link,
+.navbar-sign {
+    font-family: lora;
+    font-weight: bold;
+    color: white;
+}
+
+.jumbotron {
+    color: white;
+}
+
+.jumbotron-item h1,
+.jumbotron-item h2,
+.jumbotron-item span {
+    font-family: montserrat-bold;
+}
+
+.jumbotron-item p {
+    font-family: montserrat-light;
+    letter-spacing: 3px;
+}
+
+#imglaravel {
+    background-size: cover;
+}
+
+.kata-orang .card .card-title {
+    width: 100px;
+    height: 100px;
+    background-color: #aaa;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.review h2,
+.paket h4 {
+    font-family: lora;
+}
+
+.card-paket h5,
+.card-paket a {
+    font-family: lora-light;
+}
+
+.social i {
+    font-size: 200px;
+}
+
+.footer-element h3 {
+    font-family: lora;
+}
+
+.footer-element p {
+    font-family: montserrat-light;
+}
+
+.social-courses {
+    font-family: montserrat-bold;
+}
+
+
+/* Perjalanan.html */
+
+.content1 .text-capitalize,
+.content2 .text-capitalize {
+    font-family: montserrat-bold;
+}
+
+.content1 .card p,
+.content2 .card p {
+    font-family: lora-light;
+}
+
+.content1 .card h5,
+.content2 .card h5 {
+    font-family: montserrat-bold;
+}
+
+/* ENd Perjalanan.html */
