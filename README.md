@@ -1,3 +1,3 @@
 # amcourses.github.io
 Website Bootstrap
-https://amuqorrobin.github.io/amcourses.github.io/
+https://muqorrobin22.github.io/AMCourses/
